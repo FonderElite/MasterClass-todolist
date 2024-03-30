@@ -1,2 +1,2 @@
 ## Todolist - React + Vite
-<img src="todolist.gif">
+<img src="todo_list.gif">
